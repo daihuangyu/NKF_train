@@ -1,0 +1,14 @@
+{
+  "model_dir": "./model/NKF_B4_finetune_1",
+  "log_dir": "./model/NKF_B4_finetune_1",
+  "n_block": 4,
+  "model": [
+    {
+      "lr": 0.001,
+      "epoch": 50,
+      "batch_size" : 4,
+      "eps": 1e-7,
+      "weight_decay": 0.0001
+    }
+  ]
+}

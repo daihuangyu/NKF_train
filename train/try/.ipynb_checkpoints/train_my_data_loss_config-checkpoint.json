@@ -1,0 +1,14 @@
+{
+  "model_dir": "./model/NKF_B12_sisdr",
+  "log_dir": "./model/NKF_B12_sisdr",
+  "n_block": 12,
+  "model": [
+    {
+      "lr": 0.0004,
+      "epoch": 50,
+      "batch_size" : 4,
+      "eps": 1e-7,
+      "weight_decay": 0.0001
+    }
+  ]
+}

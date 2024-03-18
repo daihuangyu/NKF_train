@@ -1,0 +1,169 @@
+0 time avg pesq score is 2.212
+ 0 time avg erle db is 2.986
+1 time avg pesq score is 2.340
+ 1 time avg erle db is -0.006
+2 time avg pesq score is 2.408
+ 2 time avg erle db is -2.871
+3 time avg pesq score is 2.086
+ 3 time avg erle db is 2.304
+4 time avg pesq score is 2.234
+ 4 time avg erle db is -1.357
+5 time avg pesq score is 2.314
+ 5 time avg erle db is 0.358
+6 time avg pesq score is 2.386
+ 6 time avg erle db is -2.709
+7 time avg pesq score is 2.357
+ 7 time avg erle db is -1.036
+8 time avg pesq score is 2.133
+ 8 time avg erle db is -2.638
+9 time avg pesq score is 2.581
+ 9 time avg erle db is 0.441
+10 time avg pesq score is 2.395
+ 10 time avg erle db is -0.324
+11 time avg pesq score is 2.379
+ 11 time avg erle db is 0.884
+12 time avg pesq score is 2.511
+ 12 time avg erle db is -3.514
+13 time avg pesq score is 2.508
+ 13 time avg erle db is -1.382
+14 time avg pesq score is 2.367
+ 14 time avg erle db is -1.850
+15 time avg pesq score is 2.146
+ 15 time avg erle db is -0.501
+16 time avg pesq score is 2.527
+ 16 time avg erle db is -0.405
+17 time avg pesq score is 2.130
+ 17 time avg erle db is 0.052
+18 time avg pesq score is 2.501
+ 18 time avg erle db is 0.790
+19 time avg pesq score is 2.380
+ 19 time avg erle db is -1.953
+20 time avg pesq score is 2.184
+ 20 time avg erle db is -2.228
+21 time avg pesq score is 2.212
+ 21 time avg erle db is -1.145
+22 time avg pesq score is 2.429
+ 22 time avg erle db is -1.493
+23 time avg pesq score is 2.580
+ 23 time avg erle db is -1.560
+24 time avg pesq score is 2.211
+ 24 time avg erle db is 1.127
+25 time avg pesq score is 2.193
+ 25 time avg erle db is 2.836
+26 time avg pesq score is 2.031
+ 26 time avg erle db is 0.748
+27 time avg pesq score is 2.117
+ 27 time avg erle db is 3.074
+28 time avg pesq score is 2.593
+ 28 time avg erle db is -1.908
+29 time avg pesq score is 2.017
+ 29 time avg erle db is 0.731
+30 time avg pesq score is 1.879
+ 30 time avg erle db is -0.571
+31 time avg pesq score is 2.258
+ 31 time avg erle db is 2.813
+32 time avg pesq score is 2.588
+ 32 time avg erle db is -1.333
+33 time avg pesq score is 1.997
+ 33 time avg erle db is -1.251
+34 time avg pesq score is 2.148
+ 34 time avg erle db is 1.128
+35 time avg pesq score is 2.029
+ 35 time avg erle db is 0.851
+36 time avg pesq score is 1.958
+ 36 time avg erle db is 0.732
+37 time avg pesq score is 2.396
+ 37 time avg erle db is 2.060
+38 time avg pesq score is 2.068
+ 38 time avg erle db is -0.526
+39 time avg pesq score is 2.349
+ 39 time avg erle db is -0.952
+40 time avg pesq score is 2.389
+ 40 time avg erle db is -0.917
+41 time avg pesq score is 2.011
+ 41 time avg erle db is -1.582
+42 time avg pesq score is 2.367
+ 42 time avg erle db is -0.920
+43 time avg pesq score is 2.048
+ 43 time avg erle db is -2.247
+44 time avg pesq score is 2.434
+ 44 time avg erle db is 0.274
+45 time avg pesq score is 2.320
+ 45 time avg erle db is -2.322
+46 time avg pesq score is 2.244
+ 46 time avg erle db is 0.925
+47 time avg pesq score is 2.012
+ 47 time avg erle db is 0.409
+48 time avg pesq score is 2.181
+ 48 time avg erle db is -0.910
+49 time avg pesq score is 2.301
+ 49 time avg erle db is -0.898
+50 time avg pesq score is 2.433
+ 50 time avg erle db is -2.892
+51 time avg pesq score is 1.869
+ 51 time avg erle db is 1.503
+52 time avg pesq score is 2.418
+ 52 time avg erle db is 0.621
+53 time avg pesq score is 2.197
+ 53 time avg erle db is 1.014
+54 time avg pesq score is 2.142
+ 54 time avg erle db is -0.933
+55 time avg pesq score is 2.128
+ 55 time avg erle db is 1.353
+56 time avg pesq score is 2.241
+ 56 time avg erle db is 1.715
+57 time avg pesq score is 2.283
+ 57 time avg erle db is 1.428
+58 time avg pesq score is 2.405
+ 58 time avg erle db is 1.470
+59 time avg pesq score is 2.346
+ 59 time avg erle db is 0.266
+60 time avg pesq score is 2.305
+ 60 time avg erle db is -0.211
+61 time avg pesq score is 1.981
+ 61 time avg erle db is -1.438
+62 time avg pesq score is 2.096
+ 62 time avg erle db is -1.175
+63 time avg pesq score is 2.327
+ 63 time avg erle db is 2.064
+64 time avg pesq score is 2.325
+ 64 time avg erle db is -0.091
+65 time avg pesq score is 2.306
+ 65 time avg erle db is -2.324
+66 time avg pesq score is 2.254
+ 66 time avg erle db is 1.906
+67 time avg pesq score is 2.233
+ 67 time avg erle db is 1.403
+68 time avg pesq score is 2.443
+ 68 time avg erle db is -1.083
+69 time avg pesq score is 2.214
+ 69 time avg erle db is -2.700
+70 time avg pesq score is 2.257
+ 70 time avg erle db is 0.257
+71 time avg pesq score is 2.305
+ 71 time avg erle db is 1.477
+72 time avg pesq score is 2.047
+ 72 time avg erle db is 2.188
+73 time avg pesq score is 2.093
+ 73 time avg erle db is -1.704
+74 time avg pesq score is 2.132
+ 74 time avg erle db is -1.245
+75 time avg pesq score is 2.293
+ 75 time avg erle db is -4.223
+76 time avg pesq score is 2.227
+ 76 time avg erle db is 2.700
+77 time avg pesq score is 2.114
+ 77 time avg erle db is 1.026
+78 time avg pesq score is 2.014
+ 78 time avg erle db is -1.141
+79 time avg pesq score is 2.440
+ 79 time avg erle db is 0.333
+80 time avg pesq score is 2.026
+ 80 time avg erle db is -0.014
+81 time avg pesq score is 2.365
+ 81 time avg erle db is -1.487
+82 time avg pesq score is 2.192
+ 82 time avg erle db is 1.157
+finally avg pesq score is 2.252
+finally avg erle db is -0.200
+Finished Test! Total cost time: 388.5851011276245

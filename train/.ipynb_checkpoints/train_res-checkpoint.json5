@@ -1,0 +1,42 @@
+{
+  "model_dir": "./model/NKF_B12_res_2",
+  "log_dir": "./model/NKF_B12_res_2",
+  "n_block": 12,
+  "model": {
+      "module": "model.NKF_Res",
+      "main": "NKF",
+      "args": {
+          "L": 12,
+          "rnn_layers": 1,
+          "fc_dim": 80, 
+          "rnn_dim": 80
+      },
+  },
+  "train_dataset": {
+      "module": "dataset.dataset_wav",
+      "main": "Mydata_loader",
+      "args": {
+          "tp": "train",
+          "wav_path": "/mnt/users/daihuangyu/AEC_Challenge/NKF_Data_From_AEC_Challenge/synthetic5/",
+          "batch_size": 16,
+          "drop_last": true, 
+          "num_workers": 8
+      }
+  },
+  "val_dataset": {
+      "module": "dataset.dataset_wav",
+      "main": "Mydata_loader",
+      "args": {
+          "tp": "val",
+          "wav_path": "/mnt/users/daihuangyu/AEC_Challenge/NKF_Data_From_AEC_Challenge/synthetic5/",
+          "batch_size": 16,
+          "drop_last": true, 
+          "num_workers": 8
+      }
+  },
+  "lr": 0.00004,
+  "epoch": 150,
+  "eps": 1e-7,
+  "weight_decay": 0.0001
+  
+}
