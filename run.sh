@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 通过镜像源法产生多通道信号（GPURIR），并和扫地机噪声进行混合，最终转换为频带SRP-PHAT与STFT谱相位的组合特征
+# 通过镜像源法产生多通道信号（GPURIR），并和噪声进行混合，最终转换为频带SRP-PHAT与STFT谱相位的组合特征
 # 并训练
 # 目录下需创建csv文件夹，内部放置语料的csv文件以及噪声的csv文件
 # stage=1，产生房间冲击响应
@@ -10,8 +10,8 @@
 # staeg=5，训练
 # stage=6，测试
 pathwd='/home/admin/AEC/NKF_train/'
-datapath='/mnt/users/daihuangyu/dataset/NKF_train/data/'
-feapath='/mnt/users/daihuangyu/dataset/NKF_train/fea2/'
+datapath=
+feapath=
 thread=8
 stage=3
 # rir集合
@@ -69,7 +69,7 @@ fea_ref_val_csv=$pathwd'csv2/train/fea/ref_sig_val.csv'
 if [ ! -z $1 ]; then
     stage=$1
 fi
-
+# 后来依靠随机噪声生成，和论文对齐（下面的代码已经删除，具体可参考fastrir）
 # 产生房间冲击响应(需设置参数过多，在此不引出)
 if [ $stage -le 0 ]; then
     echo "Step 1: Generate RIRs"
@@ -96,7 +96,7 @@ if [ $stage -le 1 ]; then
     else
       echo vad_save_path exist
     fi
-    python vad.py --vad_save_path $vad_save_path --csv_wav $csv_wav --csv_vad $csv_vad || exit 1;
+    python ./vad/vad.py --vad_save_path $vad_save_path --csv_wav $csv_wav --csv_vad $csv_vad || exit 1;
 fi  
     
     
