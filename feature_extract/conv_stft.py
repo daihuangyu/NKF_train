@@ -295,6 +295,6 @@ if __name__ == '__main__':
     #test_fft()
     #test_ifft1()
     #test_ifft2()
-    inwav = r'/home/pf/share/apple/tmp/noise_debug/科沃斯_天猫精灵_norm_112_1m_90_人声实际音量+实际安静场景.wav'
+    inwav = r'/home/pf/share/apple/tmp/noise_debug/test.wav'
     outwav = r'../out_1.wav'
     test_sgpstft(inwav, outwav)
